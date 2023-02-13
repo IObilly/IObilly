@@ -63,7 +63,7 @@
   	   <li><b>OS:</b> MacOS </li>
 	     <li><b>Laptop: </b>MacBook pro M1</li>
   	   <li><b>Browser: </b> Brave</li>
-	     <li><b>Code Editor:</b> PyCharm EDI</li>
+	     <li><b>Code Editor:</b> PyCharm IDE</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
 	    <br />
 	</ul>
