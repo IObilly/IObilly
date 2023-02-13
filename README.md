@@ -25,9 +25,9 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/abhinandanraj" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
-<a href="https://github.com/abhinandanraj" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
-<a href="mailto:crazyabhinandanraj@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abhinandanraj" /></a>
+<a href="https://linkedin.com/in/bilelbelgacem" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
+<a href="https://github.com/IObilly" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="IObilly" /></a>
+<a href="mailto:bilel.pythondev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="IObilly" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinandanraj&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -37,10 +37,10 @@
  <br />
  <p align="center">
   <a href="https://github.com/IObilly">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=IObilly&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/IObilly/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhinandanraj&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IObilly&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
@@ -50,7 +50,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=abhinandanraj&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=IObilly&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
