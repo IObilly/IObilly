@@ -5,8 +5,8 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Competitive programming and Kubernetes.**
+- 🔭 I’m currently working on * Skills.**
+- 🌱 I’m currently learning ** Kubernetes **
 - 👯 I’m looking to collaborate on **Python and Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/IObilly?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 💬 Ask me about **Python, Django, DRF, APIs, Docker**
